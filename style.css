@@ -1,0 +1,19 @@
+@charset "UTF-8";
+@font-face {
+
+    font-family: "lord das fontes";
+    src: url("ringbearer/RINGM___.TTF");
+
+}
+
+h1{
+
+    font-family: 'lord das fontes', sans-serif;
+
+}
+
+h2{
+
+    font-family: 'lord das fontes', sans-serif;
+    
+}
