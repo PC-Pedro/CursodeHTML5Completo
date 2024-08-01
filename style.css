@@ -15,5 +15,52 @@ h1{
 h2{
 
     font-family: 'lord das fontes', sans-serif;
-    
+
+}
+
+table#Tabela_Livros{
+    border: 1px solid goldenrod; 
+
+    border-spacing: 1px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    text-align: center;
+
+
+}
+
+table#Tabela_Livros td{
+
+    border: 1px solid goldenrod;
+
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table#Tabela_Livros td.LB1{
+
+    color: goldenrod;
+    vertical-align: top;
+    font-weight: bold;
+
+    font-family: 'lord das fontes',sans-serif;
+}
+
+table#Tabela_Livros caption{
+
+    color: goldenrod;
+    font-size: 20pt;
+    font-weight: bolder;
+}
+
+table#Tabela_Livros td.RB1{
+
+    color: goldenrod;
+}
+
+a{
+    color: goldenrod;
 }
